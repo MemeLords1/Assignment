@@ -7,25 +7,17 @@ public class Fruit {
       this.taste = taste;
       this.size = size;
 }
-
-
 public void getFruit(){
 //return name;
 //return size;
- 
-
    }
 public String eat(){
-
 //return name + " is " + taste;
-
 return taste + "is very Good" ;
 }
-
 public static void  main (String [] args){
  Fruit myFruit= new Fruit("orange","good ",67.0);
 }
- 
 }
 
 

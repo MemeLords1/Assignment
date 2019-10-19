@@ -1,5 +1,9 @@
+//Thomas Chen 
+//Cisc 3115 
+//Assignment #3
+
 public class Orange extends Fruit {
-   public Orange(String name, String taste, double size){
+   public Orange(String name, String taste, int size){
        super(name,taste,size);
      }
    public String eat(){

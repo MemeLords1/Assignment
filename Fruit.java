@@ -1,7 +1,6 @@
 //Thomas Chen
 //Cisc 3115
 //Assignment #3
-
 public class Fruit {
    String name;
    String taste;

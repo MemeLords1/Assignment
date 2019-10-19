@@ -1,3 +1,7 @@
+//Thomas Chen 
+//Cisc 3115 
+//Assignment #3
+
 public class Square extends Shape {
    public Square()	{
       super();

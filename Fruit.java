@@ -16,7 +16,7 @@ public String eat(){
 return taste + "is very Good" ;
 }
 public static void  main (String [] args){
- Fruit myFruit= new Fruit("orange","good ",67.0);
+ Fruit myFruit= new Fruit("orange","taste like orange ", 1);
 }
 }
 

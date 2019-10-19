@@ -6,7 +6,7 @@ public class Apple extends Fruit {
       return name + " is " + taste;
 }
  public static void main(String [] args){
- Apple myA=new  Apple("APPLE "," has flavor",54.87);
- System.out.println(myA.eat());
+ Apple AppleEat = new  Apple("APPLE "," taste like apple",1);
+ System.out.println(AppleEat.eat());
       } 
 }

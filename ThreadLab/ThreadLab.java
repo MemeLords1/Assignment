@@ -18,18 +18,18 @@ class ThreadLab {
   }
 }
 
-
+//Wrapper Class 
 class PrintText implements Runnable {
   private String ToPrint; 
   private int times;
 
-
+//Asign Date type to an object
   public PrintText(String c, int t) {
     ToPrint = c;
     times = t;
   }
 
-
+//Print and run the Fa La La Chorus  
   public void run() {
 for (int i = 0; i < times ; i++) {
     System.out.print(ToPrint + "-");

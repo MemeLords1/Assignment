@@ -25,9 +25,9 @@ public class CustomerPrint{
     infos = info.split("/");
     people.add(createObject(infos));
   }
-
+ System.out.println("Welcome to the Customer Application");
   while(true){
-    System.out.print("Display another customer? (y/n) : ");
+    System.out.println("Display another customer? (y/n) : ");
     String x = sc.next();
     if (x.equals("n")){
       System.exit(0);

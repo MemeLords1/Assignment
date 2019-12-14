@@ -27,7 +27,7 @@ public class CustomerPrint{
   }
  System.out.println("Welcome to the Customer Application");
   while(true){
-    System.out.println("Display another customer? (y/n) : ");
+    System.out.print("Display another customer? (y/n) : ");
     String x = sc.next();
     if (x.equals("n")){
       System.exit(0);

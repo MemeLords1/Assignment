@@ -43,7 +43,7 @@ public class CustomerPrint{
   }
   public static void findCustomer(ArrayList<Customer> people){
     Scanner sc = new Scanner(System.in);
-    System.out.println("Enter the Customer ID:");
+    System.out.print("Enter the Customer ID:");
     String customerid = sc.nextLine();
     int matches =0;
     for (Customer customer:people){

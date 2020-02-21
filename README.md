@@ -12,9 +12,9 @@ CSV_PATH to any CSV file you are trying to run.
 
 ## Setup
 
-Sign up for a GitHub account if you don't have one. Set up your SSH keys with github.
-Clone this repository git clone git@github.com:cisc3130-s20/assignment-template.git to your machine to get a copy.
-Move into the project's root directory with cd assignment-template [^1]
-Move again into the subdirectory src using the command cd src
-Compile the java file using the java compiler command javac Main.java
-Run the compiled java program with the java command java Main
+1) Sign up for a GitHub account if you don't have one. Set up your SSH keys with github.
+2) Clone this repository git clone git@github.com:cisc3130-s20/assignment-template.git to your machine to get a copy.
+3) Move into the project's root directory with cd assignment-template [^1]
+4) Move again into the subdirectory src using the command cd src
+5) Compile the java file using the java compiler command javac Main.java
+6) Run the compiled java program with the java command java Main

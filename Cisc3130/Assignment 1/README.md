@@ -14,7 +14,7 @@ CSV_PATH to any CSV file you are trying to run.
 
 1) Sign up for a GitHub account if you don't have one. Set up your SSH keys with github.
 2) Clone this repository git clone Cisc3130/Assignment 1/Main.java to your machine to get a copy.
-3) Move into the project's root directory with cd assignment-template [^1]
+3) Move into the project's root directory with cd assignment
 4) Move again into the subdirectory src using the command cd src
 5) Compile the java file using the java compiler command javac Main.java
 6) Run the compiled java program with the java command java Main

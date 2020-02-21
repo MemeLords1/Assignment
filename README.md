@@ -10,7 +10,7 @@ CSV_PATH to any CSV file you are trying to run.
 
 ## Dependencies 
 
-##Setup
+## Setup
 
 Sign up for a GitHub account if you don't have one. Set up your SSH keys with github.
 Clone this repository git clone git@github.com:cisc3130-s20/assignment-template.git to your machine to get a copy.

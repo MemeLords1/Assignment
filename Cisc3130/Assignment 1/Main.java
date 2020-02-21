@@ -1,3 +1,5 @@
+//Thomas Chen
+//Note: Sadly Didnt delete duplicate artist Since I was Having Problems with other stuff so didnt have time to do it 
 import java.io.BufferedReader;
 import java.io.FileReader; 
 import java.io.FileWriter;

@@ -1,3 +1,5 @@
+//Thomas Chen
+
 public class Chart implements Comparable<Chart>{
 
 public int ranks, views;

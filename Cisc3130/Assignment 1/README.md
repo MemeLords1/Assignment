@@ -19,4 +19,9 @@ CSV_PATH to any CSV file you are trying to run.
 5) Compile the java file using the java compiler command javac Main.java
 6) Run the compiled java program with the java command java Main
 
-You Should See The List of All 200 Artist
+## Notes: 
+You Should See The List of All 200 Aritst their ranks,views, and songs
+
+Sadly with not enough time and problems that has arise I wasnt able to delete duplicate aritst name that shows up
+
+Picture of sorted Artist is attached

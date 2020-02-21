@@ -18,3 +18,5 @@ CSV_PATH to any CSV file you are trying to run.
 4) Move again into the subdirectory src using the command cd src
 5) Compile the java file using the java compiler command javac Main.java
 6) Run the compiled java program with the java command java Main
+
+You Should See The List of All 200 Artist

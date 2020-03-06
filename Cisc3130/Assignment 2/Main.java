@@ -1,5 +1,6 @@
 //Thomas Chen
-// Didnt understand what you mean by making a song Queue.. Since cant you just remove the Song you just listen from the song list "csv file"???
+//Didnt understand what you mean by making a song Queue.. 
+//Since cant you just remove the Song you just listen from the song list "csv file"???
 //So all i did was combine multiple CSV File to create a New one with all of them combine. 
 
 import java.io.BufferedReader;
@@ -73,8 +74,8 @@ public static ArrayList<String> aList = new ArrayList<String>();
                   }
 		       System.out.print("\n");
                    System.out.println("This Is Your Spotify Quarter List\n");
-                        writer.close();    
-      	// Give the user Option to sort the information
+                        writer.close();   
+// Give the user Option to sort the information
 
 int choice = 0;
 		Scanner sc = new Scanner(System.in);

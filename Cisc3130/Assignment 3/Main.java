@@ -40,13 +40,13 @@ public class Main {
 	subList3 = movieTree.subList("Toy Story", "WALL-E");
 
 	
-	//Print out the subLists on 3 different files of 200.
+	//Print out the subLists on 3 different files called MovieList1,Movielist2,Movielist3
 
 	subList1.print("MovieList1.csv");
 	subList2.print("MovieList2.csv");
 	subList3.print("MovieList3.csv");
 
-	//Tell the uses that the programe ran perfectly and is finished.
+	//Tell the uses that the program ran perfectly and is finished.
 
         System.out.println("File Have Been Printed into MovieList1, MovieList2, MovieList3");
 	}

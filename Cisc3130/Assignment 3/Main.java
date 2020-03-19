@@ -46,7 +46,7 @@ public class Main {
 	subList2.print("MovieList2.csv");
 	subList3.print("MovieList3.csv");
 
-	//Tell the uses that the program ran perfectly and is finished.
+	//Tell the user that the program ran perfectly and is finished.
 
         System.out.println("File Have Been Printed into MovieList1, MovieList2, MovieList3");
 	}

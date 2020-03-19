@@ -3,6 +3,12 @@
 //Cisc. 3130
 //Movie Titles
 
+//Notes/Problem
+//I Couldnt add or sort the full 9743 Movies on the list becuase the Binary tree isnt balanced becuase of how i created
+//The insert function but i didnt have time to fix the insert function so it could balanced out the binary tree to accept more then 1000
+//Because the tree is so deep i decided to just keep it at a maxmium of 1000 which is why the full 9743 movies arent printed or present 
+//on the outcome file.
+
 import java.util.Scanner;
 import java.io.*;
 import java.io.PrintWriter;

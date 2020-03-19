@@ -5,9 +5,11 @@
 
 //Notes/Problem
 //I Couldnt add or sort the full 9743 Movies on the list becuase the Binary tree isnt balanced becuase of how i created
-//The insert function but i didnt have time to fix the insert function so it could balanced out the binary tree to accept more then 1000
-//Because the tree is so deep i decided to just keep it at a maxmium of 1000 which is why the full 9743 movies arent printed or present 
-//on the outcome file.
+//The insert function but i didnt have time to fix the insert function to balanced out the binary tree to accept more then 1000
+//Because the tree is so deep i decided to just keep it at a maxmium of 1000 because when i tried to loop it to solver the balancing
+//issue it would just break the program or it could be because i was doing it wrong with the short amount of time i had.
+//So i ended up not tryin to fix my Binary Tree Balancing issue which means that the the full 9743 movies listed
+//arent printed or present on the outcome file. Since it is restricted to 1000.
 
 import java.util.Scanner;
 import java.io.*;

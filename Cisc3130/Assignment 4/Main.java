@@ -3,6 +3,13 @@
 //Cisc. 3130
 //Movie Genres
 
+//Note
+//The console print the report for people who are just trying to see the information or result as quickly as possible by 
+//just running the program but for people who are trying to store the data and trying to look at it without having 
+//to run the program all over again I had the data printed onto different CSV file so it could be quickly accessed 
+//and stored for later use.
+
+
 import java.io.*;
 import java.io.FileReader;
 import java.util.*;
